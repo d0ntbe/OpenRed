@@ -1,0 +1,2 @@
+# OpenRed
+Open Redirect Scanner
